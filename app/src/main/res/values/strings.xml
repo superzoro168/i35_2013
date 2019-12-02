@@ -5,5 +5,7 @@
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
     <string name="title">天羅地網</string>
+    <string name="request_for_permission_message">我真的沒有要做壞事，給我權限吧？</string>
+    <string name="ok">OK</string>
 
 </resources>
